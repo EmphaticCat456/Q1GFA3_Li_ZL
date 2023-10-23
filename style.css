@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@800&display=swap');
+
+*{   
+    padding: 0vw;
+    margin: 0vw;
+}
+.navbar{
+    
+    border: .1vw solid black;
+    border-radius: 0vw;
+    background-color: #040F16;
+    padding: 2vw;
+}
+.navbarbottom{
+    
+    justify-content: space-between;
+    background-color: #040F16;
+    width: 100vw;
+    height: 5vh;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+}
+
+.links{
+    padding: 1vw;
+    background-color: #0094C6;
+    font-family: 'Gabarito';
+    border: .1vw solid black;
+    border-radius: 2vw;
+    display: inline;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+.links a{
+    color: white;
+    width: 50px;
+    height: 50px;
+    font-size: 1.15vw;
+    text-decoration: none;
+}
+.links:hover{
+    padding: 1.5vw;
+    font-size: larger;
+    transition: 0.4s;
+}
+
+
+.links1 img{
+    width: 2vw;
+}
+
+.socials{
+    color: white;
+    display: inline;
+}
+
+.social-icons{
+    display: inline;
+}
+
+#socialmed{
+    text-align: left;
+    display: inline;    
+}
+
+.logo img{
+    border: 100vw;
+    border: 0.1vw;
+    top: 1vw;
+    position: fixed;
+    width: 4vw;
+}
+
+#grouplink{
+    text-align: right;
+}
+
+.links1{
+    display: inline;
+}
+.mc{
+    background-color: #001242;
+    background-size: cover;
+    border: 1vw;
+    height: 100vh;
+    
+}
+
+.content{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    color: aliceblue;
+}
+
+.content h1{
+    font-size: 3vw;
+}
+
+.content p{
+    width: 70vw;
+}
+
+.content2 h1{
+    color: white;
+    font-size: 3vw;
+}
+
+
+.pic1 img{
+    width: 30vw;
+    height: 18vw;
+    position: absolute;
+    right: 60%;
+    top: 20%;
+}
+
+.pic2 img{
+    width: 30vw;
+    height: 18vw;
+    position: absolute;
+    left: 60%;
+    top: 20%;
+}
+
+.content3{
+    position: absolute;
+    bottom: 15%;
+    width: 80vw;
+    left: 10%;
+    font-size: 1.2vw;
+    color:white;
+}
+.pic15 img{
+    width: 15vw;
+    height: 20vw;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+.pic11 img{
+    width: 15vw;
+    height: 20vw;
+    position: absolute;
+    right: 20%;
+    top: 30%;
+}
+.pic10 img{
+    width: 19vw;
+    height: 25vw;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
